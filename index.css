@@ -1,0 +1,143 @@
+body {
+    background-color: black;
+}
+
+.navbar {
+    position: fixed;
+}
+
+.navbar li {
+    display: inline;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: maroon;
+}
+
+.logo {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.bestiary {
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: maroon;
+    text-align: center;
+}
+
+.bestiary img {
+    height: 100x;
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    top: 50px;
+}
+
+.bestiary span {
+    position: relative;
+    top: 20px;
+}
+
+.bestiary-content {
+    background-color:#5C5C5C;
+    height: 300px;
+    text-align: center;
+}
+
+.bestiary-content p {
+    position: relative;
+    top: 50%;
+    color: white;
+}
+
+.alchemy {
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: maroon;
+    text-align: center;
+}
+
+.alchemy img {
+    height: 100x;
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    top: 50px;
+}
+
+.alchemy-content {
+    background-color:#5C5C5C;
+    height: 300px;
+    text-align: center;
+}
+
+.alchemy-content p {
+    position: relative;
+    top: 50%;
+    color: white;
+}
+
+.crafting {
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: maroon;
+    text-align: center;
+}
+
+.crafting img {
+    height: 100x;
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    top: 50px;
+}
+
+.crafting-content {
+    background-color:#5C5C5C;
+    height: 300px;
+    text-align: center;
+}
+
+.crafting-content p {
+    position: relative;
+    top: 50%;
+    color: white;
+}
+
+.characters {
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    color: maroon;
+    text-align: center;
+}
+
+.characters img {
+    height: 100x;
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    top: 50px;
+}
+
+.characters-content {
+    background-color:#5C5C5C;
+    height: 300px;
+    text-align: center;
+}
+
+.characters-content p {
+    position: relative;
+    top: 50%;
+    color: white;
+}
